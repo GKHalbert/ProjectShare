@@ -24,7 +24,7 @@
     "react-scripts": "3.2.0",
     "react-uid": "^2.2.0",
     "statezero": "^0.5.4",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "mode server.js",
